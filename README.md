@@ -63,6 +63,21 @@ Test
 ...
 ```
 
+## 3. QuantStats 
+
+#### From CSV data
+
+```bash
+⇨  python csv-test.py
+HTML report saved to: rep.html
+```
+
+#### With streamlit
+
+```bash
+⇨  streamlit run stlit.py
+```
+
 ## Troubleshooting
 
 Make sure your DNS is not blocking `fc.yahoo.com` ([example](https://github.com/StevenBlack/hosts/issues/2708))
