@@ -40,6 +40,8 @@ PEG: 7.4313
 
 ## 2. Quantitative Trading Strategies Using Python (Book)
 
+First you need to unzip the data in [Quantitative_Trading/BenchmarkDatasets.zip].
+
 ### Example
 
 From chapter 2.
@@ -69,4 +71,4 @@ Make sure your DNS is not blocking `fc.yahoo.com` ([example](https://github.com/
 
 - [Finance scripts](https://github.com/shashankvemuri/Finance/tree/master)
 - [Awesome Systematic Trading](https://github.com/wangzhe3224/awesome-systematic-trading)
-- [FRED](Federal Reserve Economic Data: https://fred.stlouisfed.org/)
+- [FRED: Federal Reserve Economic Data](https://fred.stlouisfed.org/)

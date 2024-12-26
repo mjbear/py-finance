@@ -1,1 +1,3 @@
 Quantitative_Trading/BenchmarkDatasets
+.DS_Store
+__pycache__/*
