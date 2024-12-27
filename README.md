@@ -1,4 +1,4 @@
-# Testing Python finace packages
+# Testing Python finance packages
 
 Install [uv](https://docs.astral.sh/uv/pip/environments/) for Python package management
 
@@ -19,7 +19,7 @@ uv pip install -r requirements.txt --native-tls
 
 ## 1. yfinance
 
-Offers a Pythonic way to fetch financial & market data from Yahoo!Ⓡ finance.
+Offers a Pythonic way to fetch financial & market data from Yahoo!&reg; finance.
 Link: https://github.com/ranaroussi/yfinance/tree/main
 
 ### Example
