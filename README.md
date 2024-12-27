@@ -1,4 +1,4 @@
-# Testing Python finace packages
+# Testing Python finance packages
 
 Install [uv](https://docs.astral.sh/uv/pip/environments/) for Python package management
 
