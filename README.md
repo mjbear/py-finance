@@ -19,7 +19,7 @@ uv pip install -r requirements.txt --native-tls
 
 ## 1. yfinance
 
-Offers a Pythonic way to fetch financial & market data from Yahoo!Ⓡ finance.
+Offers a Pythonic way to fetch financial & market data from Yahoo!&reg; finance.
 Link: https://github.com/ranaroussi/yfinance/tree/main
 
 ### Example
