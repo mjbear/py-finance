@@ -78,9 +78,43 @@ HTML report saved to: rep.html
 ⇨  streamlit run stlit.py
 ```
 
+## 4. TA-Lib
+
+Technical Analysis Library
+
+#### With streamlit
+
+```bash
+⇨  cd TA-Lib && streamlit run stock_data_analysis.py
+```
+
 ## Troubleshooting
 
 Make sure your DNS is not blocking `fc.yahoo.com` ([example](https://github.com/StevenBlack/hosts/issues/2708))
+
+```python
+import pandas as pd
+import yfinance as yf
+data = yf.download('IBM', pd.Timestamp("2024-01-01"), pd.Timestamp("2024-12-25"))
+# Check data dimension/size
+print(data.shape)
+print(data.head())
+print(data.tail())
+print(data['Close'])
+print(data.index)
+print(data.info())
+print(data['Close'].shape)
+print(data['Close'].dtypes)
+print(data.Close.values)
+#
+#import matplotlib.pyplot as plt
+#data['Close'].plot()
+#plt.title("Stock Price")
+#plt.show()
+#
+import numpy as np
+close=np.random.random(100)
+```
 
 ## Check out
 

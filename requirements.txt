@@ -7,3 +7,4 @@ yfinance
 quantstats_lumi
 IPython
 streamlit
+TA-Lib
